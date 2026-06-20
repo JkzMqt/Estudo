@@ -1,4 +1,4 @@
-#Exercicios-lab-06-05-26
+#Exercicios-lab-03-06-26
 
 # utilitários
 def printar_matriz(matriz):
